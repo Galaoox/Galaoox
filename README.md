@@ -4,7 +4,7 @@
 ### 💻 &nbsp;About Me 
 
 - 👀 I’m interested in Web and Blockchain development
-- 🌱 I’m currently learning Grapqhl and Mongodb
+- 🌱 I’m currently learning Django and Tailwind
 
 
 <!-- ### 🛠 &nbsp;Tech Stack
